@@ -1,13 +1,16 @@
 {
-    "name": "com.gbviktor.data-core-for-unity",
-    "displayName": "Data Core",
-    "author": { "name": "Victor Bisterfeld", "url": "https://gbviktor.de/data-core-for-unity" },
-    "version": "1.0.0",
-    "unity": "2022.1",
-    "description": "Data Core: is core functionals for other Montana Games packages, like Repositories Creator, Data Container, UI Manager, Requirements System etc.",
-    "keywords": [ "runtime", "interface","core"],
-    "license": "MIT",
-    "dependencies": {
-        "com.unity.nuget.newtonsoft-json"
-    }
+	"name": "com.gbviktor.data-core-for-unity",
+	"displayName": "Data Core",
+	"author": {
+		"name": "Victor Bisterfeld",
+		"url": "https://gbviktor.de/data-core-for-unity"
+	},
+	"version": "1.0.0",
+	"unity": "2022.1",
+	"description": "Data Core: is core functionals for other Montana Games packages, like Repositories Creator, Data Container, UI Manager, Requirements System etc.",
+	"keywords": ["runtime", "interface", "core"],
+	"license": "MIT",
+	"dependencies": {
+		"com.unity.nuget.newtonsoft-json":"3.0.0^"
+	}
 }
