@@ -11,6 +11,6 @@
 	"keywords": ["runtime", "interface", "core"],
 	"license": "MIT",
 	"dependencies": {
-		"com.unity.nuget.newtonsoft-json":"3.0.0^"
+		"com.unity.nuget.newtonsoft-json":"3.0.2"
 	}
 }
